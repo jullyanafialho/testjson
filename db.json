@@ -1,0 +1,14 @@
+{  
+  "tipo1":{  
+     "status":true,
+     "quantidade":70
+  },
+  "tipo2":{  
+     "status":true,
+     "quantidade":70
+  },
+  "tipo3":{  
+     "status":true,
+     "quantidade":70
+  }
+}
